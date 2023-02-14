@@ -1,0 +1,10 @@
+import ValidaPessoa.*;
+
+public class Programa {
+    public static void main(String[] args) {
+        ObterPessoa.obterPessoa();
+    }
+}
+
+
+
